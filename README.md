@@ -1,1 +1,1 @@
-# my-site
+# fitfuel-prototype
